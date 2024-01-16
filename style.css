@@ -3,7 +3,7 @@ body{
     font-family:'Times New Roman', Times, serif;
 }
 main{
-    margin:0 150px;
+    margin:100 150px;
 }
 .header{
     display: flex;

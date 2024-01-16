@@ -3,7 +3,7 @@ body{
     font-family:'Times New Roman', Times, serif;
 }
 main{
-    margin:0 150px;
+    margin:10 10px;
 }
 .header{
     display: flex;
@@ -30,7 +30,7 @@ main{
     justify-content: space-between;
 }
 .frontPage .left{
-    margin:100px 0;
+    margin:10px 0;
     width:550px;
 }
 .frontPage .left .frame1{
@@ -171,16 +171,18 @@ main{
 
 .Achievements .grid-item{
   background-color: rgba(241, 237, 237, 0.8);
-  padding: 3px;
+  padding: 1px;
   border-radius: 2px;
   border-bottom: 3px solid rgb(213, 213, 246);
   box-shadow: 0 0 20px rgb(213, 213, 246);
   background-color: #fff;
   display: grid;
-  padding: 10px 20px;
+  padding: 1px 1px;
   font-size: 18px;
   justify-content: center;
   text-align: center;
+  align-items:centre;
+  align-content:centre;
 }
 .Achievements .grid-item h3{
   text-align: justify;

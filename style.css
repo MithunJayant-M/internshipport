@@ -3,7 +3,7 @@ body{
     font-family:'Times New Roman', Times, serif;
 }
 main{
-    margin:10 10px;
+    margin:0 100px;
 }
 .header{
     display: flex;
@@ -30,11 +30,14 @@ main{
     justify-content: space-between;
 }
 .frontPage .left{
-    margin:10px 0;
+    margin:50px 0;
     width:550px;
 }
 .frontPage .left .frame1{
     padding: 20px;
+}
+.round-image {
+  border-radius: 50%;
 }
 .frontPage .left .frame1 span{
     font-size:xxx-large;
@@ -99,9 +102,6 @@ main{
     background-color: rgb(81, 33, 135);
     border-radius: 5px;
     color:white;
-}
-.round-image {
-  border-radius: 50%;
 }
 .skills{
     display: grid;

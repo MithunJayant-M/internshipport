@@ -100,7 +100,7 @@ main{
     border-radius: 5px;
     color:white;
 }
-.frontPage .right {
+.frontPage .right .round-image {
   border-radius: 50%;
 }
 .skills{

@@ -3,7 +3,7 @@ body{
     font-family:'Times New Roman', Times, serif;
 }
 main{
-    margin:0 100px;
+    margin:0 150px;
 }
 .header{
     display: flex;
@@ -30,7 +30,7 @@ main{
     justify-content: space-between;
 }
 .frontPage .left{
-    margin:50px 0;
+    margin:100px 0;
     width:550px;
 }
 .frontPage .left .frame1{

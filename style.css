@@ -96,7 +96,7 @@ main{
 }
 .frontPage .left .frame3 button{
     padding: 12px 30px;
-    background-color: rgb(81, 33, 135);
+    background-color:#000000;
     border-radius: 5px;
     color:white;
 }

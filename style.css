@@ -23,6 +23,7 @@ main{
 }
 .header .right a{
     text-decoration: none;
+    font-weight:bold;
     color:rgb(35, 35, 35);
 }
 .frontPage{

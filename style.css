@@ -38,11 +38,12 @@ main{
 }
 .frontPage .left .frame1 span{
     font-size:xxx-large;
+    font-weight:bold;
 }
 .frontPage .left .frame1 p{
     font-size:x-large;
     text-align: justify;
-    color: rgb(78, 76, 76);
+    color: #00FFFF;
 }
 .frontPage .left .frame2{
     display: flex;
@@ -111,14 +112,14 @@ main{
     gap:20px;
     font-size:large;
     text-align: justify;
-    color: rgb(78, 76, 76);
+    color: rgb(35,35,35);
 }
 .skills  .bar-left{
     display: flex;
     flex-direction: column;
     gap:20px;
     font-size:large;
-    color: rgb(78, 76, 76);
+    color: rgb(35,35,35);
     width: 100%;
     margin-top: 40px;
     margin-left: -10%;
@@ -157,7 +158,7 @@ main{
   transition: width 0.5s ease-in-out;
 }
 .Achievements{
-  color:rgb(78, 76, 76);
+  color:rgb(35,35,35);
 }
 
 .Achievements .grid-container{
